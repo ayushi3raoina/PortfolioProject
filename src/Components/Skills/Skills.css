@@ -1,0 +1,20 @@
+.skills {
+    margin-bottom: 40px;
+}
+
+.skills-container {
+    display: flex;
+    gap: 30px;
+}
+
+.skill-category {
+    flex: 1;
+}
+
+.skills-list {
+    padding-left: 20px;
+}
+
+.skill-item {
+    margin-bottom: 8px;
+}
